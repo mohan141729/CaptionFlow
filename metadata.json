@@ -1,0 +1,6 @@
+{
+  "name": "Auto Caption Generator",
+  "description": "AI-powered auto caption generator and editor for short-form videos with word-level timestamps, custom styles, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
